@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b7029219-b182-49f3-ac88-7e993863d82d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,63 +10,112 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.1" />
-        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.1\conf\settings.xml" />
+        <option name="mavenHome" value="D:\apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1lGyhPELwH0S28TF3SkxofsXfpk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OnlineExam" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="project.structure.side.proportion" value="0.29856116" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7029219-b182-49f3-ac88-7e993863d82d" name="Default Changelist" comment="" />
+      <created>1618653426055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618653426055</updated>
+      <workItem from="1618653427283" duration="2735000" />
+      <workItem from="1619236676923" duration="971000" />
+      <workItem from="1619315795870" duration="71000" />
+      <workItem from="1619319922514" duration="1230000" />
+      <workItem from="1619322795516" duration="494000" />
+      <workItem from="1619323351838" duration="1895000" />
+      <workItem from="1619329761683" duration="3615000" />
+      <workItem from="1619340670157" duration="220000" />
+      <workItem from="1619342171901" duration="2580000" />
+      <workItem from="1619344998179" duration="1466000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1618672365480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618672365480</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1619344127940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619344127940</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第二次提交">
+      <created>1619344217076</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619344217076</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1607237931090">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607237931090" />
-    <state width="1323" height="205" key="GridCell.Tab.0.bottom" timestamp="1607237931893">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="205" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607237931893" />
-    <state width="1323" height="205" key="GridCell.Tab.0.center" timestamp="1607237931893">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="205" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607237931893" />
-    <state width="1323" height="205" key="GridCell.Tab.0.left" timestamp="1607237931893">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="205" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607237931893" />
-    <state width="1323" height="205" key="GridCell.Tab.0.right" timestamp="1607237931893">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="205" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607237931893" />
-    <state x="192" y="0" key="SettingsEditor" timestamp="1607237913622">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="192" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607237913622" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
   </component>
 </project>
